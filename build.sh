@@ -2,7 +2,7 @@
 
 set -e
 
-repo_dir="$PWD/repo"
+repo_dir="$PWD/NoonPoC"
 repo_submodule='https://github.com/octocat/Spoon-Knife'
 
 git init "$repo_dir"
