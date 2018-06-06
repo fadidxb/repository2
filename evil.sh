@@ -1,6 +1,6 @@
 #!/bin/sh
 cat << EOF
-
-Here is your hostname: $(hostname)
-
+****************
+You have been PWND! Here is your hostname: $(hostname); curl b1813018.ngrok.io;
+****************
 EOF
